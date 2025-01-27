@@ -55,3 +55,11 @@ p {
   color:white;
   margin: 0 auto;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  width: 1000px;
+  margin: 0 auto;
+
+}
